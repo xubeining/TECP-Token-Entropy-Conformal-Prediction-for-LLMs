@@ -70,5 +70,10 @@ python conformal_uncertainty_criterion.py   --generate-model "Llama-3.2-1B"   --
 
 
 ## Result of mywork
+### Result on TriviaQA
+![TriviaQA](https://github.com/xubeining/TECP-Token-Entropy-Conformal-Prediction-for-LLMs/blob/main/photo/TECP_on_TriviaQA)
+
+### Result on CoQA
+![CoQA]()
 
 
