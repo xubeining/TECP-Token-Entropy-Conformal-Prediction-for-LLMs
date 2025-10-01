@@ -75,5 +75,11 @@ python conformal_uncertainty_criterion.py   --generate-model "Llama-3.2-1B"   --
   <img src="https://github.com/xubeining/TECP-Token-Entropy-Conformal-Prediction-for-LLMs/blob/main/photo/TECP_on_CoQA.png" width="45%"/>
 </p>
 
+## Result of baseline
+<p align="center">
+  <img src="https://github.com/xubeining/TECP-Token-Entropy-Conformal-Prediction-for-LLMs/blob/main/photo/Conu_on_TriviaQA.png" width="45%"/>
+  <img src="https://github.com/xubeining/TECP-Token-Entropy-Conformal-Prediction-for-LLMs/blob/main/photo/Conu_on_CoQA.png" width="45%"/>
+</p>
+
 
 
