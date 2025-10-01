@@ -15,7 +15,7 @@ First, download and set up the repo:
 
 ```bash
 git clone https://github.com/xubeining/TECP-Token-Entropy-Conformal-Prediction-for-LLMs.git
-cd nwm
+cd TECP-Token-Entropy-Conformal-Prediction-for-LLMs
 ```
 
 ## Data
