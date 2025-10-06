@@ -28,7 +28,7 @@ unzip row_data.zip
 Finally, you should have the following structure:
 
 ```
-nwm/data
+nwm/row_data
 ├── <triviaqa>
 │   ├── validation-00000-of-00001.parquet
 │   ├── train-00000-of-00001.parquet
