@@ -19,13 +19,8 @@ cd TECP-Token-Entropy-Conformal-Prediction-for-LLMs
 ```
 
 ## Data
-You should run:
 
-```bash
-unzip row_data.zip
-```
-
-Finally, you should have the following structure:
+You should have the following structure:
 
 ```
 nwm/row_data
