@@ -1,6 +1,6 @@
 ## TECP: Token-Entropy Conformal Prediction for LLMs
 
-### [Paper](https://arxiv.org/abs/2509.00461)
+### [Full paper](https://www.mdpi.com/2227-7390/13/20/3351) | [Arxiv](https://arxiv.org/abs/2509.00461)
 
 This repo contains the official PyTorch implementation of TECP.
 
