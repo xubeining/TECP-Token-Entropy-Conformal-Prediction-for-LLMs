@@ -6,7 +6,7 @@ This repo contains the official PyTorch implementation of TECP.
 
 > [Beining Xu](https://xubeining.github.io/)
 > <br>Shenzhen MSU-BIT University<br>
-> Yongming Lu
+> [Yongming Lu](https://www.smbu.edu.cn/info/4271/76501.htm)
 > <br>Shenzhen MSU-BIT University<br>
 
 ## abstract
