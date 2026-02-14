@@ -6,6 +6,8 @@ This repo contains the official PyTorch implementation of TECP.
 
 > [Beining Xu](https://xubeining.github.io/)
 > <br>Shenzhen MSU-BIT University<br>
+> Yongming Lu
+> <br>Shenzhen MSU-BIT University<br>
 
 ## abstract
 Uncertainty quantification (UQ) for open-ended language generation remains a critical yet underexplored challenge, particularly in settings where token-level probabilities are available via API access. In this paper, we **introduce Token-Entropy Conformal Prediction (TECP)**. The framework leverages logit-based, reference-free token entropy as an uncertainty measure and integrates it into a split conformal prediction (CP) pipeline to construct prediction sets with formal coverage guarantees. Unlike approaches that rely on semantic-consistency heuristics alone, TECP directly estimates episodic uncertainty from the token-entropy structure of sampled generations and calibrates uncertainty thresholds via CP quantiles to ensure provable error control. Empirical evaluations across six large language models and two benchmarks (CoQA and TriviaQA) show that TECP consistently achieves reliable coverage and compact prediction sets, outperforming prior self-UQ methods. Our results provide a principled and efficient solution for trustworthy generation in white-box, log-probability–accessible LLM settings.
